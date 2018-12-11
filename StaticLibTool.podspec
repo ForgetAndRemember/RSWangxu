@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   #
 
   s.name         = "StaticLibTool"
-  s.version      = "1.0.0"
+  s.version      = "v1.0"
   s.summary      = "this is just for test. Please use it in oc object."
 
   # This description is used to generate tags and improve search results.
@@ -89,7 +89,7 @@ Pod::Spec.new do |s|
   #  Not including the public_header_files will make all headers public.
   #
 
-  s.source_files  = "StaticLibTool"
+  s.source_files  = "RSWangxu/*.{h,m}"
 
   # s.public_header_files = "Classes/**/*.h"
 
