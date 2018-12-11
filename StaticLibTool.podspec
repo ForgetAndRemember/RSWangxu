@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   #
 
   s.name         = "StaticLibTool"
-  s.version      = "v1.0"
+  s.version      = "v2.0"
   s.summary      = "this is just for test. Please use it in oc object."
 
   # This description is used to generate tags and improve search results.
