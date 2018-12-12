@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   #
 
   s.name         = "StaticLibTool"
-  s.version      = "2.1"
+  s.version      = "1.0.1"
   s.summary      = "this is just for test. Please use it in oc object."
 
   # This description is used to generate tags and improve search results.
@@ -24,8 +24,8 @@ Pod::Spec.new do |s|
   #   * Try to keep it short, snappy and to the point.
   #   * Write the description between the DESC delimiters below.
   #   * Finally, don't worry about the indent, CocoaPods strips it!
-  s.description  = <<-DESC
-                         LZTool 是一个用于保存一些常用工具类的工具,LZTool 是一个用于保存一些常用工具类的工具
+  s.description  = <<-DESC 
+                          LZTool 是一个用于保存一些常用工具类的工具,wwomeny,shi qoejqo,qeroiqoerq,rqqr
                    DESC
 
   s.homepage     = "https://github.com/ForgetAndRemember/RSWangxu"
@@ -91,7 +91,7 @@ Pod::Spec.new do |s|
   #  Not including the public_header_files will make all headers public.
   #
 
-  s.source_files  = "RSWangxu/*.{h,m}"
+  s.source_files  = "StaticLibTool/*.{h,m}"
 
   # s.public_header_files = "Classes/**/*.h"
 
